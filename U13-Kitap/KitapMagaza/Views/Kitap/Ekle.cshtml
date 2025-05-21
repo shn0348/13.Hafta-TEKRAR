@@ -1,0 +1,13 @@
+@model KitapModel
+
+<h1>Kitap Ekleme</h1>
+<form action="" method="post">
+    Kitap ID<br>
+    <input type="number" asp-for="Id" class="form-control"> <br>
+    Kitap Adı<br>
+    <input type="text" asp-for="KitapAd" class="form-control"> <br>
+    Sayfa Sayısı<br>
+    <input type="number" asp-for="SayfaSayisi" class="form-control"> <br>
+
+    <button type="submit" class="btn btn-info">Ekle</button>
+</form>

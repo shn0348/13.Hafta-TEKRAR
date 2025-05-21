@@ -1,0 +1,194 @@
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\appsettings.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.staticwebassets.runtime.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.staticwebassets.endpoints.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.exe
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.dll
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.pdb
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.RazorAssemblyInfo.cache
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.RazorAssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\scopedcss\bundle\KitapMagaza.styles.css
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\scopedcss\projectbundle\KitapMagaza.bundle.scp.css
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\0lq52buvzp-b9sayid5wm.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\y6h7neqbjm-61n19gt1b8.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\d7186tnh05-xtxxf3hu2r.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\qz0fqih7y6-bqjiyaj88i.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\edcn7sgre1-c2jlpeoesf.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\i8mcsidboo-erw9l3u2r3.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\m0bwu4dlh8-aexeepp0ev.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\kbxv3w3uc5-d7shbmvgxk.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\duwh7jawtg-ausgxo2sd3.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\t3v2e4dus1-k8d9w2qqmf.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ip6u2t6n3i-cosvhxvwiu.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ayk7cywkvt-ub07r2b239.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\6ycwzjs1rr-fvhpjtyr6v.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\xrkzax6bcw-b7pk76d08c.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\d87mf8gy0p-fsbi9cje9m.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mpccxmn503-rzd6atqjts.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\7l466fcam9-ee0r1s7dh0.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\70lgpzis3m-dxx9fxp4il.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\tg9xhow5c5-jd9uben2k1.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\exrnsoofsb-khv3u5hwcm.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\3n7zi5mejm-r4e9w2rdcm.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\7gl52bhbgc-lcd1t2u6c8.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\e3nu28hlta-c2oey78nd0.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\7ejf15smmj-tdbxkamptv.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\vo5mz0t5ld-j5mq2jizvt.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\5h5aap2mwl-06098lyss8.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\zem6l57wco-nvvlpmu67g.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\khr5hx5qkb-s35ty4nyc5.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\8j4squyohl-pj5nd1wqec.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\as12shjy6o-46ein0sx1k.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\jaoem2jvv3-v0zj4ognzu.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mujeqy8n6l-37tfw0ft22.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\hwpdz0eys0-hrwsygsryq.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\pnot2ift57-pk9g2wxc8p.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ecipvgy2de-ft3s53vfgj.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\bc1q6sgihv-6cfz1n2cew.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\3kpjsnknm7-6pdc2jztkx.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ss64owebci-493y06b0oq.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\nnstt0xbdg-iovd86k7lj.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\j472dxqtvz-vr1egmr9el.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\tjn3b4xdvn-kbrnm935zg.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\39ybtn80f2-jj8uyg4cgr.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\nymik0fj0d-y7v9cxd14o.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\rhse9zhrq3-notf2xhcfb.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ygr1sk1gdd-h1s4sie4z3.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\rku7wmoktx-63fj8s7r0e.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\zw21dtg2bq-0j3bgjxly4.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\4j74m9kjak-47otxtyo56.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\bwhdgg22f7-4v8eqarkd7.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\znqabv1tz6-356vix0kms.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\dh718h8zvo-83jwlth58m.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\6c07g7jeps-mrlpezrjn3.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\w2yz3yenhe-lzl9nlhx6b.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\cipx2htpst-ag7o75518u.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\05jk75oqjj-x0q3zqp4vz.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mcfa4zz5t8-0i3buxo5is.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\1j88xscoha-o1o13a6vjx.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\i7toolwplq-ttgo8qnofa.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\2e10kwp099-2z0ns9nrw6.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\w2flg2ptuv-muycvpuwrr.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\hrp0l06xm8-87fc7y1x7t.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\iplh3h5cfe-mlv21k5csn.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\14bazs6aoo-61jyqli0vf.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mm8f6rvf9s-61jyqli0vf.gz
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.KitapMagaza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.KitapMagaza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.build.KitapMagaza.props
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.KitapMagaza.props
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.KitapMagaza.props
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.dll
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\refint\KitapMagaza.dll
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.pdb
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\13.HAFTA\Perşembe\U13-Kitap\KitapMagaza\obj\Debug\net9.0\ref\KitapMagaza.dll
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\appsettings.Development.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\appsettings.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.staticwebassets.endpoints.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.staticwebassets.runtime.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.exe
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.deps.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.runtimeconfig.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.dll
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\bin\Debug\net9.0\KitapMagaza.pdb
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.GeneratedMSBuildEditorConfig.editorconfig
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.AssemblyInfoInputs.cache
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.AssemblyInfo.cs
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.csproj.CoreCompileInputs.cache
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.MvcApplicationPartsAssemblyInfo.cache
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.RazorAssemblyInfo.cache
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.RazorAssemblyInfo.cs
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\scopedcss\bundle\KitapMagaza.styles.css
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\scopedcss\projectbundle\KitapMagaza.bundle.scp.css
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\0lq52buvzp-b9sayid5wm.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\y6h7neqbjm-61n19gt1b8.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\d7186tnh05-xtxxf3hu2r.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\qz0fqih7y6-bqjiyaj88i.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\edcn7sgre1-c2jlpeoesf.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\i8mcsidboo-erw9l3u2r3.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\m0bwu4dlh8-aexeepp0ev.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\kbxv3w3uc5-d7shbmvgxk.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\duwh7jawtg-ausgxo2sd3.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\t3v2e4dus1-k8d9w2qqmf.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ip6u2t6n3i-cosvhxvwiu.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ayk7cywkvt-ub07r2b239.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\6ycwzjs1rr-fvhpjtyr6v.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\xrkzax6bcw-b7pk76d08c.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\d87mf8gy0p-fsbi9cje9m.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mpccxmn503-rzd6atqjts.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\7l466fcam9-ee0r1s7dh0.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\70lgpzis3m-dxx9fxp4il.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\tg9xhow5c5-jd9uben2k1.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\exrnsoofsb-khv3u5hwcm.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\3n7zi5mejm-r4e9w2rdcm.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\7gl52bhbgc-lcd1t2u6c8.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\e3nu28hlta-c2oey78nd0.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\7ejf15smmj-tdbxkamptv.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\vo5mz0t5ld-j5mq2jizvt.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\5h5aap2mwl-06098lyss8.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\zem6l57wco-nvvlpmu67g.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\khr5hx5qkb-s35ty4nyc5.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\8j4squyohl-pj5nd1wqec.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\as12shjy6o-46ein0sx1k.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\jaoem2jvv3-v0zj4ognzu.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mujeqy8n6l-37tfw0ft22.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\hwpdz0eys0-hrwsygsryq.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\pnot2ift57-pk9g2wxc8p.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ecipvgy2de-ft3s53vfgj.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\bc1q6sgihv-6cfz1n2cew.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\3kpjsnknm7-6pdc2jztkx.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ss64owebci-493y06b0oq.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\nnstt0xbdg-iovd86k7lj.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\j472dxqtvz-vr1egmr9el.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\tjn3b4xdvn-kbrnm935zg.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\39ybtn80f2-jj8uyg4cgr.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\nymik0fj0d-y7v9cxd14o.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\rhse9zhrq3-notf2xhcfb.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\ygr1sk1gdd-h1s4sie4z3.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\rku7wmoktx-63fj8s7r0e.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\zw21dtg2bq-0j3bgjxly4.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\4j74m9kjak-47otxtyo56.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\bwhdgg22f7-4v8eqarkd7.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\znqabv1tz6-356vix0kms.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\dh718h8zvo-83jwlth58m.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\6c07g7jeps-mrlpezrjn3.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\w2yz3yenhe-lzl9nlhx6b.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\cipx2htpst-ag7o75518u.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\05jk75oqjj-x0q3zqp4vz.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mcfa4zz5t8-0i3buxo5is.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\1j88xscoha-o1o13a6vjx.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\i7toolwplq-ttgo8qnofa.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\2e10kwp099-2z0ns9nrw6.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\w2flg2ptuv-muycvpuwrr.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\hrp0l06xm8-87fc7y1x7t.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\iplh3h5cfe-mlv21k5csn.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\14bazs6aoo-61jyqli0vf.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\compressed\mm8f6rvf9s-61jyqli0vf.gz
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.build.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.development.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.KitapMagaza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.KitapMagaza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.build.KitapMagaza.props
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.KitapMagaza.props
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.KitapMagaza.props
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\staticwebassets.pack.json
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.dll
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\refint\KitapMagaza.dll
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.pdb
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\KitapMagaza.genruntimeconfig.cache
+D:\DERSLER\1-DERSLER\WEB TASARIMI\2.DÖNEM\13.HAFTA\PERŞEMBE\U13-Kitap\KitapMagaza\obj\Debug\net9.0\ref\KitapMagaza.dll

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body id="bd">
+    <h1>Renk değeri giriniz !</h1>
+    
+    Rengi Seçin 
+    <input type="text" id="renkDegeri"> <br>
+    1 &#8594; Altın <br>
+    2 &#8594; Gümüş <br>
+    3 &#8594; Mor <br>
+    4 &#8594; Zeytin <br> 
+    5 &#8594; Pembe <br>
+    <br>
+   
+    <button type="button" onclick="renkdeger()">DEĞİŞTİR</button>
+    <script>
+        function renkdeger(){
+            var renk=document.getElementById("renkDegeri").value;
+            switch (Number(renk)) {
+                case 1:
+                    document.getElementById("bd").style.backgroundColor="gold";                
+                    break;
+                case 2:
+                    document.getElementById("bd").style.backgroundColor="silver";                
+                    break;
+                case 3:
+                    document.getElementById("bd").style.backgroundColor="purple";                
+                    break;
+                case 4:
+                    document.getElementById("bd").style.backgroundColor="olive";                
+                    break;  
+                case 5:
+                    document.getElementById("bd").style.backgroundColor="pink";                
+                    break;      
+                default:
+                    alert("yanlış sayı girdiniz!!!");
+                    break;                
+            }
+        }
+    </script>
+
+    
+</body>
+</html>

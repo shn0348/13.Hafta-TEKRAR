@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Saydırma-Üst Sınır</title>
+</head>
+
+<body>
+    <h1>For Döngüsü İleri Yazdırma</h1>
+    Başlangış Sayısı <input type="text" id="bs"> <br><br>
+    Bitiş Sayısı     <input type="text" id="bt"> <br><br>
+    Artış Miktarı    <input type="text" id="arti"><br><br>
+    <button type="button" onclick="yazdir()">Yazdır</button>
+   
+    <p id="sayac"></p>
+    <script>
+        function yazdir() {
+            var baslangic = Number(document.getElementById("bs").value);
+            var bitis = Number(document.getElementById("bt").value);
+            var artis = Number(document.getElementById("arti").value);
+            for (let index = baslangic; index <= bitis; index=index + artis) 
+            {
+                document.getElementById("sayac").innerHTML += index + "<br>";
+            }
+        }
+    </script>
+
+
+</body>
+
+</html>

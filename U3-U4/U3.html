@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch Case-Günler</title>
+</head>
+<body>
+    <form action="">
+        1.Sayı <input type="text" id="s1"> <br> <br>
+        2.Sayı <input type="text" id="s2"> <br> <br>
+        İşlem  <input type="text" id="islemTuru"> ( + / * -) <br> <br> 
+                     
+        <button onclick="islemYap()" type="button">Gün Öğren</button> <br> 
+        <p id="pSonuc">-----------</p> 
+    </form>
+    
+    <script>
+        function islemYap()
+        {
+            var sayi1 = Number(document.getElementById("s1").value);
+            var sayi2 = Number(document.getElementById("s2").value);
+            var islem = document.getElementById("islemTuru").value;
+            switch(islem){
+                case "+":  
+                    document.getElementById("pSonuc").innerText="Sayıların Toplamı:" + (sayi1+sayi2);
+                    break;
+                 case "-":  
+                    document.getElementById("pSonuc").innerText="Sayıların Farkı:" + (sayi1-sayi2);
+                    break;
+                case "*":  
+                    document.getElementById("pSonuc").innerText="Sayıların Çarpımı:" + (sayi1*sayi2);
+                    break;    
+                case "/":  
+                    document.getElementById("pSonuc").innerText="Sayıların Bölümü :"+(sayi1/sayi2);
+                    break;               
+                default:
+                    alert("Yanlış işlem girişi ")
+            }
+        }
+
+    </script>
+</body>
+</html>

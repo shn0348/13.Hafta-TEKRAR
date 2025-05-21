@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch Case-Günler</title>
+</head>
+<body>
+    <form action="">
+        Ay Değeri <input type="text" id="gunDegeri"> (1-12 arası) <br> <br>         
+        <button onclick="gunOgren()" type="button">Gün Öğren</button>
+    </form>
+    
+    <script>
+        function gunOgren()
+        {
+            var gun=Number(document.getElementById("gunDegeri").value);
+            switch(gun){
+                case 1:  
+                    alert("Ocak");
+                    break;
+                case 2:
+                    alert("Şubat")  
+                    break;
+                case 3:
+                    alert("Mart")  
+                    break;    
+                case 4:
+                    alert("Nisan")  
+                    break;
+                case 5:
+                    alert("Mayıs")  
+                    break;
+                case 6:
+                    alert("Haziran")  
+                    break;
+                case 7:
+                    alert("Temmuz")  
+                    break;
+                 case 8:
+                    alert("Ağustos")  
+                    break;
+                 case 9:
+                    alert("Eylül")  
+                    break;
+                 case 10:
+                    alert("Ekim")  
+                    break;
+                 case 11:
+                    alert("Kasım")  
+                    break;
+                 case 12:
+                    alert("Aralık")  
+                    break;
+                default:
+                    alert("Yanlış bilgi girişi ")
+            }
+        }
+
+    </script>
+</body>
+</html>

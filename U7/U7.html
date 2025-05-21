@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>For Geriye Saydırma</title>
+    </head>
+    <body>
+        <button type="button" onclick="tekSaydir()">Tek Sayılar</button>
+        <h1>0-100 Arası Tek Sayılar</h1>
+        <p id="sayac"></p>
+        <script>                      
+            function tekSaydir()
+            {
+                for (let index = 0; index <= 100; index++) 
+                {
+                    if (index % 2 ==1) 
+                    {
+                        document.getElementById("sayac").innerHTML += index +"<br>"; 
+                    }                                       
+                }
+            }
+        </script>
+       
+        
+    </body>
+</html>
